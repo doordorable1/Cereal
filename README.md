@@ -12,11 +12,6 @@
 게임 빌드는 [여기]()에서 다운로드 가능합니다! ✨
 
 
-## Authors
 
-*   **Kosanghyun1** - [Github](https://github.com/Kosanghyun1)
-*   **9SMG** - [Github](https://github.com/9SMG)
-*   **pdefd77** - [Github](https://github.com/pdefd77)
-*   **goalgoloo1** - [Github](https://github.com/goalgoloo1)
 
   ## Known Issues
